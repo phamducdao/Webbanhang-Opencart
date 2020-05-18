@@ -1,0 +1,11 @@
+2020-04-01 3:43:27 - PHP Warning:  Division by zero in G:\xampp\htdocs\khoedep1\admin\model\localisation\currency.php on line 141
+2020-04-01 3:43:27 - PHP Warning:  Division by zero in G:\xampp\htdocs\khoedep1\admin\model\localisation\currency.php on line 141
+2020-04-01 3:43:27 - PHP Warning:  Division by zero in G:\xampp\htdocs\khoedep1\admin\model\localisation\currency.php on line 141
+2020-04-01 3:44:19 - PHP Warning:  Division by zero in G:\xampp\htdocs\khoedep1\admin\model\localisation\currency.php on line 141
+2020-04-01 3:44:19 - PHP Warning:  Division by zero in G:\xampp\htdocs\khoedep1\admin\model\localisation\currency.php on line 141
+2020-04-01 3:44:19 - PHP Warning:  Division by zero in G:\xampp\htdocs\khoedep1\admin\model\localisation\currency.php on line 141
+2020-04-01 4:04:20 - PHP Warning:  unlink(G:/xampp/htdocs/khoedep1/storage/cache/cache.catalog.language.1585717460): Permission denied in G:\xampp\htdocs\khoedep1\system\library\cache\file.php on line 68
+2020-04-01 6:26:36 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in G:\xampp\htdocs\khoedep1\system\library\mail\mail.php on line 77
+2020-04-01 6:26:38 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in G:\xampp\htdocs\khoedep1\system\library\mail\mail.php on line 77
+2020-04-01 8:36:26 - PHP Notice:  Undefined index: code in G:\xampp\htdocs\khoedep1\admin\model\design\layout.php on line 38
+2020-04-01 9:47:29 - PHP Notice:  Undefined index: code in G:\xampp\htdocs\khoedep1\admin\model\design\layout.php on line 38

@@ -1,0 +1,20 @@
+{{ header }}{{ column_left }}
+<div class="body-content outer-top-xs" id="top-banner-and-menu">
+    <div class="container">
+        <div class="row">
+            <!--  CONTENT  -->
+            <div class="col-xs-12 col-sm-12 col-md-12 homebanner-holder">
+                <div id="content">
+                    {{ content_top }}
+                </div>
+            </div>
+            <!--  CONTENT : END  -->
+          
+        </div>
+        <!-- /.row -->
+        {{ content_bottom }}
+    </div>
+    <!-- /.container -->
+</div>
+<!-- /#top-banner-and-menu -->
+{{ footer }}
